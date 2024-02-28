@@ -34,7 +34,7 @@ __Auslandsjahr in Ottawa__
 ## Berufserfahrung
 
 `september 2020 – july 2023`
-__Inway Sytems GmbH, Ulm__ *— Fachinformatiker Systemintegration*
+__Inway Sytems GmbH, Ulm__ *— Systemintegration*
 
 ## Bildungsweg
 
@@ -53,7 +53,32 @@ __Ausbildung bei Inway Sytems GmbH__ *— Fachinformatiker Systemintegration*
 * — PL-200: Microsoft Power Platform Functional Consultant
 * — KCNA: Kubernetes and Cloud Native Associate
 
+## Fähigkeiten
+### Sprachkenntnise
 
+English: Höchste erreichte Stufe: B2 (Gymnasium Klasse 11/2)
+German: Muttersprache
+
+### IT Erfahrungen 
+
+* Erfahrung in der Verwaltung von Microsoft F&O D365
+* Geschultes Wissen im Umgang mit Active Directory und Azure Active Directory
+* Grundlegendes Verständnis der Verwaltung von Azure
+* Grundlegendes Verständnis von Git
+* Kenntnisse in der Linux-Verwaltung
+* Grundlegende Verwaltung von Docker-Containern
+* Grundlegendes Verständnis von APIs
+* Erfahrung in der Skriptautomatisierung (bash + PowerShell)
+* Kenntnisse im Umgang mit DevOps-Pipelines
+
+## Sonstige Aktivitäten
+
+* Jugendvertreter des Jugendtreffs "2Days Lonnerstadt"
+* Mitglieder der Verkehrsarbeitsgruppe im Klimaschutzprojekt der Stadt Hof
+* Teil der örtlichen Gruppe von Fridays For Future in Hof
+* Mentor für das "Jugend Hackt" Projekt
+* Mitglied des Hacker- und Makerspaces "Temporärhaus"
+* Teil des Jugendparlaments der Stadt Ulm, in den Fachgruppen Digitalisierung und interne Strukturen
 
 
 <!-- ### Footer
