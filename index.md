@@ -71,12 +71,11 @@ German: Muttersprache
 
 ## Sonstige Aktivitäten
 
-* • Jugendvertreter des Jugendtreffs "2Days Lonnerstadt"
-* • Mitglieder der Verkehrsarbeitsgruppe im Klimaschutzprojekt der Stadt Hof
-* • Teil der örtlichen Gruppe von Fridays For Future in Hof
-* • Mentor für das "Jugend Hackt" Projekt
-* • Mitglied des Hacker- und Makerspaces "Temporärhaus"
-* • Teil des Jugendparlaments der Stadt Ulm, in den Fachgruppen Digitalisierung und interne Strukturen
+* • Jugendvertreter des Jugendtreffs "2Days Lonnerstadt" *— 2014 - 2016*
+* • Mitarbeit Klimaschutzkonzept in der Arbeitsgruppe Verkehrs der Stadt Hof *— 2021*
+* • Mentor für das Projekt "Jugend Hackt" der Open Knowledge Foundation *— seit 2022* 
+* • Mitglied des Hacker- und Makerspaces "Temporärhaus" *— seit 2022* 
+* • Mitglied Jugend Aktiv Ulm(ehmaliges Jugendpalamment), in den Fachgruppen Digitalisierung und interne Strukturen *— seit 2022* 
 
 
 
