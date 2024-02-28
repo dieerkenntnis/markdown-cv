@@ -57,13 +57,14 @@ __Ausbildung bei Inway Sytems GmbH__ *— Fachinformatiker Systemintegration*
 ### Sprachkenntnise
 
 English: Höchste erreichte Stufe: B2 (Gymnasium Klasse 11/2)
+
 German: Muttersprache
 
 ### IT Erfahrungen 
 
-* - Erfahrung in der Verwaltung von Microsoft F&O D365
-* - Geschultes Wissen im Umgang mit Active Directory und Azure Active Directory
-* Grundlegendes Verständnis der Verwaltung von Azure
+* > Erfahrung in der Verwaltung von Microsoft F&O D365
+* > Geschultes Wissen im Umgang mit Active Directory und Azure Active Directory
+* > Grundlegendes Verständnis der Verwaltung von Azure
 * Grundlegendes Verständnis von Git
 * Kenntnisse in der Linux-Verwaltung
 * Grundlegende Verwaltung von Docker-Containern
