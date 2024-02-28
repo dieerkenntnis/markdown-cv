@@ -11,7 +11,7 @@ König-Wilhelm-Straße 3,<br/>
 <a href="mailto:Konstantin@rakutt.eu">Konstantin@rakutt.eu</a> - +49 (0)1 764 1101526
 
 
-
+---
 
 ## Persönliche Angaben
 
@@ -24,20 +24,20 @@ König-Wilhelm-Straße 3,<br/>
 
 ## Auslandserfahrung
 
-`september 2023 – Now`
+`Sep 2023 – Now`
 __Auslandsjahr in Ottawa__ 
 
 ## Berufserfahrung
 
-`september 2020 – july 2023`
+`Sep 2020 – Jul 2023`
 __Inway Sytems GmbH, Ulm__ *— Systemintegration*
 
 ## Bildungsweg
 
-`September 2017 – Februar 2020`
+`Sep 2017 – Feb 2020`
 __Reinhart Gymnasium, Hof__ *— 10. bis 12/1 Klasse*
 
-`september 2020 – july 2023`
+`Sep 2020 – Jul 2023`
 __Ausbildung bei Inway Sytems GmbH__ *— Fachinformatiker Systemintegration*
 
 
@@ -55,15 +55,6 @@ __Ausbildung bei Inway Sytems GmbH__ *— Fachinformatiker Systemintegration*
 English: Höchste erreichte Stufe: B2 (Gymnasium Klasse 11/2)
 
 German: Muttersprache
-
-
-
-
-
-
-
-
-
 
 
 ### IT Erfahrungen 
