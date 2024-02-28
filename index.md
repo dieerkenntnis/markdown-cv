@@ -2,8 +2,13 @@
 layout: cv
 title: Konstantin Rakutt
 ---
-# Konstantin Rakutt
-Physicist, Mathematician, Cambridge professor.
+# Lebenslauf von Konstantin Rakutt
+Fachinformatiker Systemintegration
+
+König-Wilhelm-Straße 3,<br/>
+89073 Ulm,<br/>
+
+<a href="firstname.lastname@helsinki.fi">Konstantin@rakutt.eu</a> - +49 (0)1 764 1101526
 
 <div id="webaddress">
   <a href="https://konstantin.rakutt.eu"><i class="fa-solid fa-house"></i> Konstantin.Rakutt.eu</a> - 
