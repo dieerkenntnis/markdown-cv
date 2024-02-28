@@ -6,9 +6,9 @@ title: Konstantin Rakutt
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-  <a href="https://konstantin.rakutt.eu"><i class="fa-solid fa-house"></i> davewhipp.github.io</a> - 
-  <a href="https://github.com/dieerkenntnis"><i class="fa-brands fa-github"></i> davewhipp</a> - 
-  <a href="https://www.linkedin.com/in/konstantin-rakutt/"><i class="fa-brands fa-linkedin"></i> konstantin-rakutt </a> - 
+  <a href="https://konstantin.rakutt.eu"><i class="fa-solid fa-house"></i> Konstantin.Rakutt.eu</a> - 
+  <a href="https://github.com/dieerkenntnis"><i class="fa-brands fa-github"></i> </a> - 
+  <a href="https://www.linkedin.com/in/konstantin-rakutt/"><i class="fa-brands fa-linkedin"></i>Konstantin Rakutt</a> - 
 </div>
 
 
