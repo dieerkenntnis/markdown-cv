@@ -13,11 +13,11 @@ König-Wilhelm-Straße 3,<br/>
 <div id="webaddress">
   <a href="https://konstantin.rakutt.eu"><i class="fa-solid fa-house"></i> Konstantin.Rakutt.eu</a> - 
   <a href="https://github.com/dieerkenntnis"><i class="fa-brands fa-github"></i> </a> - 
-  <a href="https://www.linkedin.com/in/konstantin-rakutt/"><i class="fa-brands fa-linkedin"></i>Konstantin Rakutt</a> - 
+  <a href="https://www.linkedin.com/in/konstantin-rakutt/"><i class="fa-brands fa-linkedin"></i>Linkedin:linkedin.com/in/konstantin-rakutt/</a> - 
 </div>
 
 
-## Currently
+## Persönliche Angaben
 
 Standing on the shoulders of giants
 
@@ -28,8 +28,12 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Name: 				Konstantin Pascal Rakutt
+Geburtstag: 			05.02.1999
+Geburtsort: 			Regensburg
+Wohnort: 			Ulm
+Staatsangehörigkeit: 	deutsch
+Familienstand: 		ledig
 
 ## Education
 
