@@ -56,6 +56,16 @@ English: Höchste erreichte Stufe: B2 (Gymnasium Klasse 11/2)
 
 German: Muttersprache
 
+
+
+
+
+
+
+
+
+
+
 ### IT Erfahrungen 
 
 * • Erfahrung in der Verwaltung von Microsoft F&O D365
