@@ -20,10 +20,15 @@ König-Wilhelm-Straße 3,<br/>
 ## Persönliche Angaben
 
 Name: Konstantin Pascal Rakutt
+
 Geburtstag: 05.02.1999
+
 Geburtsort: Regensburg
+
 Wohnort: Hof (Umzug in Planung)
+
 __Staatsangehörigkeit:__ deutsch
+
 __Familienstand:__ ledig
 
 
