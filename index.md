@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Konstantin Rakutt
 ---
-# Isaac Newton
+# Konstantin Rakutt
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://konstantin.rakutt.eu"><i class="fa-solid fa-house"></i> davewhipp.github.io</a> - 
+  <a href="https://github.com/dieerkenntnis"><i class="fa-brands fa-github"></i> davewhipp</a> - 
+  <a href="https://www.linkedin.com/in/konstantin-rakutt/"><i class="fa-brands fa-linkedin"></i> konstantin-rakutt </a> - 
 </div>
 
 
@@ -86,6 +87,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2024 -->
 
 
