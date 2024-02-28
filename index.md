@@ -33,15 +33,15 @@ __Familienstand:__ ledig
 ## Berufserfahrung
 
 `september 2020 – july 2023`
-__Inway Sytems GmbH, Ulm *— Fachinformatiker Systemintegration*__
+__Inway Sytems GmbH, Ulm__ *— Fachinformatiker Systemintegration*
 
 ## Bildungsweg
 
 `September 2017 – Februar 2020`
-__Reinhart Gymnasium, Hof *— 10. bis 12/1 Klasse*__
+__Reinhart Gymnasium, Hof__ *— 10. bis 12/1 Klasse*
 
 `september 2020 – july 2023`
-__Ausbildung als Fachinformatiker Systemintegration bei Inway Sytems GmbH__
+__Ausbildung bei Inway Sytems GmbH__ *— Fachinformatiker Systemintegration*
 
 
 ## Zertifikate
