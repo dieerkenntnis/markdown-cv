@@ -49,9 +49,9 @@ __Ausbildung bei Inway Sytems GmbH__ *— Fachinformatiker Systemintegration*
 
 * • Jugendleiterausbildung 
 * • Projekt- Seminar zur Studien- Berufsorientierung
-* — MB-900: Microsoft Dynamics 365 Fundamentals
-* — PL-200: Microsoft Power Platform Functional Consultant
-* — KCNA: Kubernetes and Cloud Native Associate
+* • MB-900: Microsoft Dynamics 365 Fundamentals
+* • PL-200: Microsoft Power Platform Functional Consultant
+* • KCNA: Kubernetes and Cloud Native Associate
 
 ## Fähigkeiten
 ### Sprachkenntnise
@@ -62,24 +62,24 @@ German: Muttersprache
 
 ### IT Erfahrungen 
 
-* Erfahrung in der Verwaltung von Microsoft F&O D365
-* Geschultes Wissen im Umgang mit Active Directory und Azure Active Directory
-* Grundlegendes Verständnis der Verwaltung von Azure
-* Grundlegendes Verständnis von Git
-* Kenntnisse in der Linux-Verwaltung
-* Grundlegende Verwaltung von Docker-Containern
-* Grundlegendes Verständnis von APIs
-* Erfahrung in der Skriptautomatisierung (bash + PowerShell)
-* Kenntnisse im Umgang mit DevOps-Pipelines
+* • Erfahrung in der Verwaltung von Microsoft F&O D365
+* • Geschultes Wissen im Umgang mit Active Directory und Azure Active Directory
+* • Grundlegendes Verständnis der Verwaltung von Azure
+* • Grundlegendes Verständnis von Git
+* • Kenntnisse in der Linux-Verwaltung
+* • Grundlegende Verwaltung von Docker-Containern
+* • Grundlegendes Verständnis von APIs
+* • Erfahrung in der Skriptautomatisierung (bash + PowerShell)
+* • Kenntnisse im Umgang mit DevOps-Pipelines
 
 ## Sonstige Aktivitäten
 
-* Jugendvertreter des Jugendtreffs "2Days Lonnerstadt"
-* Mitglieder der Verkehrsarbeitsgruppe im Klimaschutzprojekt der Stadt Hof
-* Teil der örtlichen Gruppe von Fridays For Future in Hof
-* Mentor für das "Jugend Hackt" Projekt
-* Mitglied des Hacker- und Makerspaces "Temporärhaus"
-* Teil des Jugendparlaments der Stadt Ulm, in den Fachgruppen Digitalisierung und interne Strukturen
+* • Jugendvertreter des Jugendtreffs "2Days Lonnerstadt"
+* • Mitglieder der Verkehrsarbeitsgruppe im Klimaschutzprojekt der Stadt Hof
+* • Teil der örtlichen Gruppe von Fridays For Future in Hof
+* • Mentor für das "Jugend Hackt" Projekt
+* • Mitglied des Hacker- und Makerspaces "Temporärhaus"
+* • Teil des Jugendparlaments der Stadt Ulm, in den Fachgruppen Digitalisierung und interne Strukturen
 
 
 <!-- ### Footer
