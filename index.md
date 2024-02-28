@@ -19,21 +19,21 @@ König-Wilhelm-Straße 3,<br/>
 
 ## Persönliche Angaben
 
-Standing on the shoulders of giants
-
+### Name:
+Konstantin Pascal Rakutt
+### Geburtstag:
+05.02.1999
+### Geburtsort:
+Regensburg
+### Wohnort:
+Ulm
+### Staatsangehörigkeit:
+deutsch
+### Familienstand:
+ledig
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-
-### Research interests
-
-Name: 				Konstantin Pascal Rakutt
-Geburtstag: 			05.02.1999
-Geburtsort: 			Regensburg
-Wohnort: 			Ulm
-Staatsangehörigkeit: 	deutsch
-Familienstand: 		ledig
 
 ## Education
 
