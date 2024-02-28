@@ -47,8 +47,8 @@ __Ausbildung bei Inway Sytems GmbH__ *— Fachinformatiker Systemintegration*
 
 ## Zertifikate
 
-* — Jugendleiterausbildung 
-* — Projekt- Seminar zur Studien- Berufsorientierung
+* • Jugendleiterausbildung 
+* • Projekt- Seminar zur Studien- Berufsorientierung
 * — MB-900: Microsoft Dynamics 365 Fundamentals
 * — PL-200: Microsoft Power Platform Functional Consultant
 * — KCNA: Kubernetes and Cloud Native Associate
@@ -62,9 +62,9 @@ German: Muttersprache
 
 ### IT Erfahrungen 
 
-* > Erfahrung in der Verwaltung von Microsoft F&O D365
-* > Geschultes Wissen im Umgang mit Active Directory und Azure Active Directory
-* > Grundlegendes Verständnis der Verwaltung von Azure
+* Erfahrung in der Verwaltung von Microsoft F&O D365
+* Geschultes Wissen im Umgang mit Active Directory und Azure Active Directory
+* Grundlegendes Verständnis der Verwaltung von Azure
 * Grundlegendes Verständnis von Git
 * Kenntnisse in der Linux-Verwaltung
 * Grundlegende Verwaltung von Docker-Containern
