@@ -2,7 +2,7 @@
 layout: cv
 title: Konstantin Rakutt
 ---
-# Lebenslauf von Konstantin Rakutt
+# Konstantin Rakutt
 Fachinformatiker Systemintegration
 
 König-Wilhelm-Straße 3,<br/>
@@ -12,8 +12,7 @@ König-Wilhelm-Straße 3,<br/>
 
 <div id="webaddress">
   <a href="https://konstantin.rakutt.eu"><i class="fa-solid fa-house"></i> Konstantin.Rakutt.eu</a> - 
-  <a href="https://github.com/dieerkenntnis"><i class="fa-brands fa-github"></i> </a> - 
-  <a href="https://www.linkedin.com/in/konstantin-rakutt/"><i class="fa-brands fa-linkedin"></i>Linkedin:linkedin.com/in/konstantin-rakutt/</a> - 
+  rakutt/</a> - 
 </div>
 
 
@@ -82,8 +81,8 @@ German: Muttersprache
 * • Teil des Jugendparlaments der Stadt Ulm, in den Fachgruppen Digitalisierung und interne Strukturen
 
 
-<!-- ### Footer
 
-Last updated: Feb 2024 -->
+
+*Last updated: Feb 2024*
 
 
