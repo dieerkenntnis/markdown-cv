@@ -30,7 +30,7 @@ __Auslandsjahr in Ottawa__
 ## Berufserfahrung
 
 `Sep 2020 – Jul 2023`
-__Inway Sytems GmbH, Ulm__ *— Systemintegration*
+__Inway Sytems GmbH, Ulm__ *— Auszubildender Systemintegration*
 
 ## Bildungsweg
 
@@ -38,7 +38,7 @@ __Inway Sytems GmbH, Ulm__ *— Systemintegration*
 __Reinhart Gymnasium, Hof__ *— 10. bis 12/1 Klasse*
 
 `Sep 2020 – Jul 2023`
-__Robert-Bosch Ulm__ *— Berufsschule*
+__Robert-Bosch Ulm__ *— FISI Ausbildung*
 
 
 ## Zertifikate
