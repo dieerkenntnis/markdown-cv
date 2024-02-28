@@ -38,7 +38,7 @@ __Inway Sytems GmbH, Ulm__ *— Systemintegration*
 __Reinhart Gymnasium, Hof__ *— 10. bis 12/1 Klasse*
 
 `Sep 2020 – Jul 2023`
-__Ausbildung bei Inway Sytems GmbH__ *— Fachinformatiker Systemintegration*
+__Ausbildung Fachinformatiker Systemintegration__ *— Inway*
 
 
 ## Zertifikate
