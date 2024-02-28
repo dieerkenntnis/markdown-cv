@@ -22,12 +22,15 @@ König-Wilhelm-Straße 3,<br/>
 * __Name:__ Konstantin Pascal Rakutt
 * __Geburtstag:__ 05.02.1999
 * __Geburtsort:__ Regensburg
+* __Wohnort:__ Ulm
+* __Staatsangehörigkeit:__ deutsch
+* __Familienstand:__ ledig
 
-__Wohnort:__ Hof (Umzug in Planung)
+## Auslandserfahrung
 
-__Staatsangehörigkeit:__ deutsch
+`september 2023 – Now`
+__Auslandsjahr in Ottawa__ 
 
-__Familienstand:__ ledig
 ## Berufserfahrung
 
 `september 2020 – july 2023`
@@ -44,13 +47,11 @@ __Ausbildung bei Inway Sytems GmbH__ *— Fachinformatiker Systemintegration*
 
 ## Zertifikate
 
-* Jugendleiterausbildung 
-* Projekt- Seminar zur Studien- Berufsorientierung
-
-MB-900: Microsoft Dynamics 365 Fundamentals
-
-PL-200: Microsoft Power Platform Functional Consultant
-KCNA: Kubernetes and Cloud Native Associate
+* — Jugendleiterausbildung 
+* — Projekt- Seminar zur Studien- Berufsorientierung
+* — MB-900: Microsoft Dynamics 365 Fundamentals
+* — PL-200: Microsoft Power Platform Functional Consultant
+* — KCNA: Kubernetes and Cloud Native Associate
 
 
 
