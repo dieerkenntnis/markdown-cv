@@ -8,7 +8,7 @@ Fachinformatiker Systemintegration
 König-Wilhelm-Straße 3,<br/>
 89073 Ulm,<br/>
 
-<a href="mailto:Konstantin@rakutt.eu">Konstantin@rakutt.eu</a> - +49 (0)1 764 1101526
+<a href="mailto:Konstantin@Rakutt.eu">Mail: Konstantin@Rakutt.eu</a> - Tel: +49 (0)1 764 1101526 - <a href="https://Konstantin.Rakutt.eu">Web: Konstantin.Rakutt.eu</a>
 
 
 ---
@@ -38,7 +38,7 @@ __Inway Sytems GmbH, Ulm__ *— Auszubildender Systemintegration*
 __Reinhart Gymnasium, Hof__ *— 10. bis 12/1 Klasse*
 
 `Sep 2020 – Jul 2023`
-__Robert-Bosch Ulm__ *— FISI Ausbildung*
+__Robert-Bosch Ulm__ *— Ausbildung Fachinformatiker Systemintegration*
 
 
 ## Zertifikate
