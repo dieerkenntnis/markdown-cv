@@ -10,10 +10,7 @@ König-Wilhelm-Straße 3,<br/>
 
 <a href="mailto:Konstantin@rakutt.eu">Konstantin@rakutt.eu</a> - +49 (0)1 764 1101526
 
-<div id="webaddress">
-  <a href="https://konstantin.rakutt.eu"><i class="fa-solid fa-house"></i> Konstantin.Rakutt.eu</a> - 
-  rakutt/</a> - 
-</div>
+
 
 
 ## Persönliche Angaben
