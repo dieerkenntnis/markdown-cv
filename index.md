@@ -19,9 +19,9 @@ König-Wilhelm-Straße 3,<br/>
 
 ## Persönliche Angaben
 
-### Name:
+##### Name:
 Konstantin Pascal Rakutt
-### Geburtstag:
+##### Geburtstag:
 05.02.1999
 ### Geburtsort:
 Regensburg
