@@ -31,8 +31,8 @@ Ulm
 deutsch
 ### Familienstand:
 ledig
-### Specialized in
-
+#### Specialized in
+nichts
 
 
 ## Education
