@@ -19,9 +19,9 @@ König-Wilhelm-Straße 3,<br/>
 
 ## Persönliche Angaben
 
-*__Name:__ Konstantin Pascal Rakutt
-*__Geburtstag:__ 05.02.1999
-*__Geburtsort:__ Regensburg
+* __Name:__ Konstantin Pascal Rakutt
+* __Geburtstag:__ 05.02.1999
+* __Geburtsort:__ Regensburg
 
 __Wohnort:__ Hof (Umzug in Planung)
 
@@ -51,6 +51,8 @@ MB-900: Microsoft Dynamics 365 Fundamentals
 
 PL-200: Microsoft Power Platform Functional Consultant
 KCNA: Kubernetes and Cloud Native Associate
+
+
 
 
 <!-- ### Footer
