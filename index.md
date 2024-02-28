@@ -47,11 +47,11 @@ __Ausbildung bei Inway Sytems GmbH__ *— Fachinformatiker Systemintegration*
 
 ## Zertifikate
 
-* — Jugendleiterausbildung 
-* — Projekt- Seminar zur Studien- Berufsorientierung
-* — MB-900: Microsoft Dynamics 365 Fundamentals
-* — PL-200: Microsoft Power Platform Functional Consultant
-* — KCNA: Kubernetes and Cloud Native Associate
+* —  Jugendleiterausbildung 
+* —  Projekt- Seminar zur Studien- Berufsorientierung
+* —  MB-900: Microsoft Dynamics 365 Fundamentals
+* —  PL-200: Microsoft Power Platform Functional Consultant
+* —  KCNA: Kubernetes and Cloud Native Associate
 
 ## Fähigkeiten
 ### Sprachkenntnise
