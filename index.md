@@ -19,39 +19,33 @@ König-Wilhelm-Straße 3,<br/>
 
 ## Persönliche Angaben
 
-Name: Konstantin Pascal Rakutt
+__Name:__ Konstantin Pascal Rakutt
 
-Geburtstag: 05.02.1999
+__Geburtstag:__ 05.02.1999
 
-Geburtsort: Regensburg
+__Geburtsort:__ Regensburg
 
-Wohnort: Hof (Umzug in Planung)
+__Wohnort:__ Hof (Umzug in Planung)
 
 __Staatsangehörigkeit:__ deutsch
 
 __Familienstand:__ ledig
+## Berufserfahrung
+
+`september 2020 – july 2023`
+__Inway Sytems GmbH, Ulm *— Fachinformatiker Systemintegration*__
+
+## Bildungsweg
+
+`September 2017 – Februar 2020`
+__Reinhart Gymnasium, Hof *— 10. bis 12/1 Klasse*__
+
+`september 2020 – july 2023`
+__Ausbildung als Fachinformatiker Systemintegration bei Inway Sytems GmbH__
 
 
-## Education
+## Zertifikate
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
 President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
