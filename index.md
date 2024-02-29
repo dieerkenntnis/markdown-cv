@@ -8,7 +8,7 @@ Fachinformatiker Systemintegration
 König-Wilhelm-Straße 3<br/>
 89073 Ulm<br/>
 
-Mail: <a href="mailto:Konstantin@Rakutt.eu">Konstantin@Rakutt.eu</a> - Tel: +49 (0)1 764 1101526 - Web:<a href="https://Konstantin.Rakutt.eu">Konstantin.Rakutt.eu</a>
+Mail: <a href="mailto:Konstantin@Rakutt.eu">Konstantin@Rakutt.eu</a> - Tel: +49 (0)1 764 1101526 - Web: <a href="https://Konstantin.Rakutt.eu">Konstantin.Rakutt.eu</a>
 
 
 ---
