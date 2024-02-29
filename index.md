@@ -5,10 +5,10 @@ title: Konstantin Rakutt
 # Konstantin Rakutt
 Fachinformatiker Systemintegration
 
-König-Wilhelm-Straße 3,<br/>
-89073 Ulm,<br/>
+König-Wilhelm-Straße 3<br/>
+89073 Ulm<br/>
 
-<a href="mailto:Konstantin@Rakutt.eu">Mail: Konstantin@Rakutt.eu</a> - Tel: +49 (0)1 764 1101526 - <a href="https://Konstantin.Rakutt.eu">Web: Konstantin.Rakutt.eu</a>
+Mail: <a href="mailto:Konstantin@Rakutt.eu">Konstantin@Rakutt.eu</a> - Tel: +49 (0)1 764 1101526 - Web:<a href="https://Konstantin.Rakutt.eu">Konstantin.Rakutt.eu</a>
 
 
 ---
@@ -52,9 +52,9 @@ __Robert-Bosch Ulm__ *— Ausbildung Fachinformatiker Systemintegration*
 ## Fähigkeiten
 ### Sprachkenntnise
 
-English: Höchste erreichte Stufe: B2 (Gymnasium Klasse 11/2)
+• Englisch: Höchste erreichte Stufe: B2 (Gymnasium Klasse 11/2)
 
-German: Muttersprache
+• Deutsch: Muttersprache
 
 
 ### IT Erfahrungen 
@@ -80,6 +80,6 @@ German: Muttersprache
 
 
 
-*Last updated: Feb 2024*
+*Aktuallisiert am: Feb 2024*
 
 
