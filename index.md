@@ -2,7 +2,7 @@
 layout: cv
 title: Konstantin Rakutt
 ---
-# Konstantin Rakutt
+# Fuck U!!!
 Fachinformatiker Systemintegration
 
 König-Wilhelm-Straße 3<br/>
